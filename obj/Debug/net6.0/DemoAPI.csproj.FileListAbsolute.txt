@@ -57,3 +57,4 @@ C:/Users/sakha/OneDrive/Desktop/Devops/DemoAPI/DemoAPI/obj/Debug/net6.0/ref/Demo
 /home/sakha/Downloads/DemoAPI/DemoAPI/obj/Debug/net6.0/ref/DemoAPI.dll
 /home/sakha/Downloads/DemoAPI/DemoAPI/obj/Debug/net6.0/DemoAPI.pdb
 /home/sakha/Downloads/DemoAPI/DemoAPI/obj/Debug/net6.0/DemoAPI.genruntimeconfig.cache
+D:\Sakha Global\Demo-webAPI\obj\Debug\net6.0\DemoAPI.pdb
